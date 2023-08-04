@@ -1,0 +1,34 @@
+body{
+    background-color:#24353f;
+}
+
+.inputs-group {
+    background-color: #24353f;
+    box-shadow: 0 1rem 5rem black ;
+}
+
+h1{
+    color: #17a2b8;
+}
+.form-control{
+    background-color: transparent;
+    color: white !important;
+}
+.form-control:focus{
+    background-color: transparent;
+}
+.form-control::placeholder{
+    color: white;
+    opacity: 0.5;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+nav{
+    background-color: #24353f;
+    box-shadow: 0 1rem 5rem black ;
+}
